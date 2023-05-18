@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<p align= center> 
+  ### Hi there
+</p>
+  
 <p align= center>
   <img src=https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif alt=my banner>
 </p>
