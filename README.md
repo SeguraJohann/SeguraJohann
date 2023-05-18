@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align=”center”>
+<p align= center>
 
-<img width=”200" height=”200" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt=”my banner”>
+<img width= 200  height= 200 src=https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif alt=my banner>
 
 </p>
 <img src= https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif>
