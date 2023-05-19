@@ -1,10 +1,4 @@
-### <b> Hello there </b>
 
-
-<br>
-
-
-	
 <br><br>
 ## <b> About Me</b>
 <br>
