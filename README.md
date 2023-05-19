@@ -7,7 +7,8 @@
 	
 - **About me**
 
-<br>
+
+<br><br>
 
 - Passionate Self-taught CS student
 - Currently learning Data Engineering
