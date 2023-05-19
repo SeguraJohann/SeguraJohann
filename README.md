@@ -1,5 +1,3 @@
-
-<br><br>
 ## <b> About Me</b>
 <br>
 
