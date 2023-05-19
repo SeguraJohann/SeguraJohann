@@ -5,7 +5,7 @@
 
 
 	
-## <picture><img src = "https://avatars.githubusercontent.com/u/93117413?v=4" width = 50px></picture> **About me**
+- **About me**
 
 <br>
 
