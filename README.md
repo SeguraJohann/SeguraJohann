@@ -48,14 +48,15 @@
 <ul>
 
 <li>
-[![Johann Segura](https://camo.githubusercontent.com/42312e937813abe3eee7d5e9bb08df31605b20af03dd433c4a0dd6233f9fad16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/johann-segura/)
+	
+	A
 
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/segura_johann_" target="_blank">
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
+
+	A
+	
 </li>
